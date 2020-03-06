@@ -1,0 +1,20 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "Lesson 2",
+  "main": "index.js",
+  "author": "beelarr",
+  "license": "ISC",
+  "scripts": {
+    "test": "test",
+    "build": "babel src --out-dir dist"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7"
+  },
+  "dependencies": {
+    "prettier": "^1.19.1"
+  }
+}
