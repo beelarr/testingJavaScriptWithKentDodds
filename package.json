@@ -2,9 +2,9 @@
   "name": "jstesting",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "jest.test.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node jest.test.js"
   },
   "keywords": [],
   "author": "",
