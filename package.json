@@ -1,15 +1,19 @@
 {
   "name": "jstesting",
   "version": "1.0.0",
-  "description": "",
-  "main": "jest.test.js",
+  "description": "JavaScript Testing Tutorial",
+  "main": "index.js",
   "scripts": {
-    "test": "node jest.test.js"
+    "test": "test"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beelarr/testingJavaScriptWithKentDodds.git"
+  },
+  "author": "beelarr",
   "license": "ISC",
-  "devDependencies": {
-    "prettier": "1.19.1"
-  }
+  "bugs": {
+    "url": "https://github.com/beelarr/testingJavaScriptWithKentDodds/issues"
+  },
+  "homepage": "https://github.com/beelarr/testingJavaScriptWithKentDodds#readme"
 }

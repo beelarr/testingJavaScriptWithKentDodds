@@ -1,0 +1,15 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest.test.js",
+  "scripts": {
+    "test": "node jest.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "1.19.1"
+  }
+}
